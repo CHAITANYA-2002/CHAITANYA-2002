@@ -1,20 +1,19 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-    int mx =170;
+int main()
+{
+    int mx = 170;
     int x;
 
-    cin >>x;
+    cin >> x;
 
-    if (x+7> 170)
+    if (x + 7 > 170)
     {
         cout << "yes" << endl;
-
     }
-    else{
-        cout << "no\n" ;
-
+    else
+    {
+        cout << "no\n";
     }
-    
 }

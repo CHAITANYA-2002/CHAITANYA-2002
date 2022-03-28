@@ -64,7 +64,6 @@ void Display(List l)
     }
 }
 
-
 int main()
 {
     int x, pos, ch, i;
@@ -99,8 +98,6 @@ int main()
             scanf("%d", &x);
             Delete(x, p);
             break;
-
-      
 
         case 3:
             Display(l);

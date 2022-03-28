@@ -21,7 +21,7 @@ struct Node *addToEmpty(struct Node *last, int data)
     // assign data to the new node
     newNode->data = data;
 
-    // assign last to newNode   
+    // assign last to newNode
     last = newNode;
 
     // create link to iteself

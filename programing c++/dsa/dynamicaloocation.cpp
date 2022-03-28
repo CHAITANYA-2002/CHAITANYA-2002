@@ -3,14 +3,14 @@
 #include <iostream>
 using namespace std;
 
-int main ()
+int main()
 {
 	// Pointer initialization to null
-	int* p = NULL;
+	int *p = NULL;
 
 	// Request memory for the variable
 	// using new operator
-	p = new(nothrow) int;
+	p = new (nothrow) int;
 	if (!p)
 		cout << "allocation of memory failed\n";
 	else
@@ -28,14 +28,14 @@ int main ()
 
 	// Request block of memory of size n
 	int n = 5;
-	int *q = new(nothrow) int[n];
+	int *q = new (nothrow) int[n];
 
 	if (!q)
 		cout << "allocation of memory failed\n";
 	else
 	{
 		for (int i = 0; i < n; i++)
-			q[i] = i+1;
+			q[i] = i + 1;
 
 		cout << "Value store in block of memory: ";
 		for (int i = 0; i < n; i++)

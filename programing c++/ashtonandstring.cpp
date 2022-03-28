@@ -2,10 +2,11 @@
 #include <inttypes.h>
 #include <algorithm>
 #include <stdint.h>
+#include <stdio.h>
 
 using namespace std;
 
-#define FOR(i, a, b) for ( i = (a); i < (b); i++)
+#define FOR(i, a, b) for (i = (a); i < (b); i++)
 #define REP(i, n) FOR(i, 0, n)
 #define ROF(i, a, b) for (int i = (b); --i >= (a);)
 typedef int64_t i64;
@@ -13,7 +14,7 @@ typedef int64_t i64;
 int ri()
 {
   int x
-  scanf("%d", &x);
+      scanf("%d", &x);
   return x;
 }
 
@@ -29,8 +30,8 @@ namespace KoAluru
   bool *t;
   int *b
 
-  template <typename T>
-  void bucket(T a[], int n, int k, bool end)
+      template <typename T>
+      void bucket(T a[], int n, int k, bool end)
   {
     fill_n(b, k, 0);
     REP(i, n)
@@ -173,65 +174,98 @@ namespace KoAluru
         sa[b[a[j]]++] = j;
       }
     }
+
     if (minor)
+
       plus_to_minus(a, sa, n, k);
     else
+
       minus_to_plus(a, sa, n, k);
   }
 
   template <typename T>
+
   void main(T a[], int sa[], int b[], int n, int k)
   {
     if (n > 0)
+
     {
       KoAluru::b = b;
       t = new bool[n];
       ka(a, sa, n, k);
+
       delete[] t;
     }
   }
 
   template <typename T>
+
   void calc_rank_lcp(T a[], int sa[], int n, int rank[], int lcp[])
+
   {
     REP(i, n)
+
     rank[sa[i]] = i;
     int k = 0;
+
     lcp[0] = 0;
+
     FOR(i, 0, n)
+
     if (rank[i])
     {
+
       for (int j = sa[rank[i] - 1]; i + k < n && j + k < n && a[i + k] == a[j + k]; k++)
         ;
+
       lcp[rank[i]] = k;
+
       k &&k--;
     }
   }
+
 }; // namespace KoAluru
 
 const int N = 100000;
+
 char a[N + 1];
+
 int sa[N], rnk[N], lcp[N];
 
 int main()
 {
+
   for (int cc = ri(); cc--;)
+
   {
+
     scanf("%s", a);
+
     i64 k = ri64() - 1;
+
     int n = strlen(a);
+
     KoAluru::main(a, sa, rnk, n, 127);
+
     KoAluru::calc_rank_lcp(a, sa, n, rnk, lcp);
+
     REP(i, n)
     {
+
       i64 t = (i64(n - sa[i]) * (n - sa[i] + 1) - i64(lcp[i]) * (lcp[i] + 1)) / 2;
+
       if (k < t)
+
       {
+
         for (int j = lcp[i] + 1; j <= k; j++)
           k -= j;
+
         printf("%c\n", a[sa[i] + k]);
+
         break;
       }
+
       k -= t;
     }
   }
