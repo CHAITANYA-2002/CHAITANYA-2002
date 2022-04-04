@@ -25,35 +25,5 @@ const int mod = 998244353;
 int main()
 {
 
-    ll n, k;
-    ll t;
-    cin >> t;
-
-    for (int j = 0; j < t; j++)
-    {
-        /* code */
-
-        cin >> n >> k;
-
-        vector<ll> a(n);
-        for (int i = 0; i < n; i++)
-        {
-
-            ll y;
-            cin >> y;
-            a[i] = y;
-        }
-    }
-
-    sort(a.begin(), a.end());
-    if (k >= n)
-
-    {
-        cout << a[n - 1] << endl;
-    }
-    else
-    {
-        cout << a[k + 1];
-    }
-    return 0; 
+    return 0;
 }
