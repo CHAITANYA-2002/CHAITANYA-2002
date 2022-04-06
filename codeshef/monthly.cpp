@@ -19,37 +19,30 @@
 #define eb emplace_back
 #define f first
 #define s second
+
 using namespace std;
 const int mod = 998244353;
-
-int main(int argc, char const *argv[])
+int main()
 {
-
-    ll t, n,y = 0, x = 1;
-    ll s = 0;
-    cin >> t;
-    while (t--)
+    int t;
+    int x, y;
+    int s = x - 30 * y;
+    for (int i = 0; i < t; i++)
     {
 
-        cin >> n;
-        vector<ll> arr(n);
+        cin >> x >> y;
 
-        for (ll i = 0; i < n; i++)
-        {
-            cin >> arr[i];
-            s += arr[i];
-        }
+        if (x >= x - s)
 
-        while (s > 0)
         {
-            s -= x;
-           y += 1;
-            x += 1;
+
+            cout << "yes" << endl;
+            /* code */
         }
-        if (s < 0)
-            cout <<y - 1 << endl;
         else
-            cout <<y << endl;
+            cout << "no" << endl;
+
+        /* code */
     }
 
     return 0;

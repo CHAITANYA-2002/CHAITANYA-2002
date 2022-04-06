@@ -25,7 +25,7 @@ const int mod = 998244353;
 int main(int argc, char const *argv[])
 {
 
-    ll t, n,y = 0, x = 1;
+    ll t, n, y = 0, x = 1;
     ll s = 0;
     cin >> t;
     while (t--)
@@ -43,13 +43,13 @@ int main(int argc, char const *argv[])
         while (s > 0)
         {
             s -= x;
-           y += 1;
+            y += 1;
             x += 1;
         }
         if (s < 0)
-            cout <<y - 1 << endl;
+            cout << y - 1 << endl;
         else
-            cout <<y << endl;
+            cout << y << endl;
     }
 
     return 0;
