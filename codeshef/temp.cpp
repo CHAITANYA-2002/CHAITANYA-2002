@@ -21,36 +21,25 @@
 #define s second
 using namespace std;
 const int mod = 998244353;
-
 int main(int argc, char const *argv[])
 {
+    int x;
+    string s;
+    cin >> s;
+    int n = s.length();
 
-    ll t, n,y = 0, x = 1;
-    ll s = 0;
-    cin >> t;
-    while (t--)
+    for (int i = 0; i < n; i++)
     {
-
-        cin >> n;
-        vector<ll> arr(n);
-
-        for (ll i = 0; i < n; i++)
+        for (int j = i + 1; j < n; j++)
         {
-            cin >> arr[i];
-            s += arr[i];
+            x = (s[i]) * 10 + (s[j]);
+            if (x % 25 == 0)
+            {
+                cout << "yes" << endl;
+            }
+            else
+                cout << "no" << endl;
         }
-
-        while (s > 0)
-        {
-            s -= x;
-           y += 1;
-            x += 1;
-        }
-        if (s < 0)
-            cout <<y - 1 << endl;
-        else
-            cout <<y << endl;
     }
-
     return 0;
 }
