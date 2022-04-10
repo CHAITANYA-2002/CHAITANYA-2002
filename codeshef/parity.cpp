@@ -62,3 +62,9 @@ int main()
 
     return 0;
 }
+
+void solve(){
+    int t;
+    cin >> t;
+    
+}

@@ -27,16 +27,16 @@ void solve()
     cin >> t;
     while (t--)
     {
-        int n1, n2;
-        cin >> n1 >> n2;
-        int x = n2 / n1;
-        int y = n2 % n1;
-
-        if (y == 0)
-            cout << x - 1;
+        ll a, b;
+        cin >> a >> b;
+        if (abs(b - a) % 2 == 0 || abs(b - a) % 3 == 0)
+        {
+            cout << 0 << endl;
+        }
         else
-            cout << x;
-        cout << endl;
+        {
+            cout << 1 << endl;
+        }
     }
 }
 

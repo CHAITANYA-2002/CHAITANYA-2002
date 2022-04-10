@@ -23,25 +23,23 @@ using namespace std;
 const int mod = 998244353;
 void solve()
 {
+
     int t;
     cin >> t;
     while (t--)
     {
-        int n1, n2;
-        cin >> n1 >> n2;
-        int x = n2 / n1;
-        int y = n2 % n1;
-
-        if (y == 0)
-            cout << x - 1;
+        int x, y;
+        cin >> x >> y;
+        if (x >= y)
+            cout << "YES";
         else
-            cout << x;
+            cout << "NO";
         cout << endl;
     }
 }
 
-int main(int argc, char const *argv[])
-{
-    solve();
-    return 0;
-}
+    int main(int argc, char const *argv[])
+    {
+        solve();
+        return 0;
+    }

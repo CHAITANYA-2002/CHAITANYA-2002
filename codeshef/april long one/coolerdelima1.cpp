@@ -1,3 +1,5 @@
+
+
 #include <bits/stdc++.h>
 #include <cstdio>
 #include <cstring>
@@ -23,19 +25,17 @@ using namespace std;
 const int mod = 998244353;
 void solve()
 {
+
     int t;
     cin >> t;
     while (t--)
     {
-        int n1, n2;
-        cin >> n1 >> n2;
-        int x = n2 / n1;
-        int y = n2 % n1;
-
-        if (y == 0)
-            cout << x - 1;
+        int a, b, c;
+        cin >> a >> b >> c;
+        if ((a * c) < b)
+            cout << "YES";
         else
-            cout << x;
+            cout << "NO";
         cout << endl;
     }
 }

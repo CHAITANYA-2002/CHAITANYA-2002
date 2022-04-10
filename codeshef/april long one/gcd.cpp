@@ -23,19 +23,36 @@ using namespace std;
 const int mod = 998244353;
 void solve()
 {
-    int t;
+
+    ll t;
     cin >> t;
     while (t--)
     {
-        int n1, n2;
-        cin >> n1 >> n2;
-        int x = n2 / n1;
-        int y = n2 % n1;
-
-        if (y == 0)
-            cout << x - 1;
+        ll a, b;
+        ll i = -1;
+        cin >> a >> b;
+        if (a % 2 == 0)
+        {
+            if ((a + 2) <= b)
+                cout << a << " " << a + 2;
+            else
+                cout << i;
+        }
+        else if (a % 3 == 0)
+        {
+            if ((a + 3) <= b)
+                cout << a << " " << a + 3;
+            else
+                cout << i;
+        }
         else
-            cout << x;
+        {
+            if ((a + 3) <= b)
+                cout << a + 1 << " " << a + 3;
+            else
+                cout << i;
+        }
+
         cout << endl;
     }
 }
