@@ -42,3 +42,10 @@ int main(int argc, char const *argv[])
     cout << ans << endl;
     return 0;
 }
+
+
+/*
+
+now this is make equal 
+
+*/
