@@ -2,6 +2,7 @@
 
 #include <iostream>
 using namespace std;
+
 template <class Big>
 Big maxoftwo(Big a, Big b)
 {

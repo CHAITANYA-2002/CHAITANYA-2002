@@ -2,13 +2,20 @@
 #include <iostream>
 using namespace std;
 
-class Test {
+class Test
+{
 	int value;
 
 public:
-	Test(int v = 0) { value = v; }
+	Test(int v = 0)
+	{
+		value = v;
+	}
 
-	int getValue() const { return value; }
+	int getValue() const
+	{
+		return value;
+	}
 };
 
 int main()
@@ -17,4 +24,3 @@ int main()
 	cout << t.getValue();
 	return 0;
 }
-

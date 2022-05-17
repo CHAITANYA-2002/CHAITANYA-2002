@@ -1,18 +1,20 @@
 
 
-
 #include <iostream>
 using namespace std;
 
 int main()
 {
-	try {
-	throw 10;
+	try
+	{
+		throw 10;
 	}
-	catch (char *excp) {
+	catch (char *excp)
+	{
 		cout << "Caught " << excp;
 	}
-	catch (...) {
+	catch (...)
+	{
 		cout << "Default Exception\n";
 	}
 	return 0;

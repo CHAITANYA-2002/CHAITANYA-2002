@@ -1,3 +1,8 @@
-a="25"
-b="51"
-print(10* str(int(a)+int(b))
+x=4
+if x < 1:
+    print ('low')
+
+    elif x<=4:  #elseif =elif
+        print('jai mata di bhaee')
+
+        
