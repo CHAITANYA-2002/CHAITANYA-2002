@@ -32,5 +32,6 @@ interface AnimalEat {
 
  /*
  method ko jab inplement krenge tb apan ko krna pdega uska sara kaam
+ 
 
  */ 
