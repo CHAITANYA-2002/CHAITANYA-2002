@@ -6,7 +6,7 @@ import java.io.*;
 public class breader {
 
     public static void main(String[] args) {
-        throw Exception;
+        throw IOException;
 
         int a, b, c, ans;
         BufferedReader br = new BufferedReader(br);
