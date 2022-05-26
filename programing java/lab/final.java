@@ -11,7 +11,6 @@ super keywork is implemented in the same class but refers to the base class
 
 
 */
-import java.io.*;
 
 interface A {
     void method1();
