@@ -6,3 +6,5 @@ class throwsexception {
         System.out.println("this statement is not printed");
     }
 }
+
+
