@@ -23,25 +23,304 @@ using namespace std;
 const int mod = 998244353;
 void solve()
 {
-    int t;
-    cin >> t;
-    while (t--)
-    {
-        int n1, n2;
-        cin >> n1 >> n2;
-        int x = n2 / n1;
-        int y = n2 % n1;
-
-        if (y == 0)
-            cout << x - 1;
-        else
-            cout << x;
-        cout << endl;
-    }
+    
 }
 
 int main(int argc, char const *argv[])
 {
     solve();
+    return 0;
+}
+
+class Solution
+{
+public:
+    int equalSum(int N, vector<int> &A)
+    {
+        long long sum = accumulate(begin(A), end(A), 0);
+        int ans = -1;
+        long long leftsum = A[0];
+        sum -= A[0];
+        if (sum == 0)
+            return 1;
+        for (int i = 1; i < N - 1; i++)
+        {
+            sum -= A[i];
+            if (leftsum == sum)
+            {
+                ans = i + 1;
+                break;
+            }
+            leftsum += A[i];
+        }
+        return ans;
+    }
+};
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int k;
+    cin >> k;
+
+    int x = 1;
+    while (k > 0)
+    {
+        if (k % 2 == 0)
+        {
+            x *= 2;
+            k -= x;
+        }
+        else
+        {
+            k -= x;
+        }
+    }
+
+    if (k == 0)
+    {
+        cout << x << endl;
+    }
+    else
+    {
+        cout << "-1" << endl;
+    }
+
+    return 0;
+}
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int k;
+    cin >> k;
+
+    int x = 1;
+    bool found = false;
+
+    while (!found && x <= k)
+    {
+        int currScore = x;
+        int numOps = 0;
+
+        while (currScore < k)
+        {
+            currScore += x * 2;
+            x *= 2;
+            numOps++;
+        }
+
+        if (currScore == k && numOps >= 2)
+        {
+            found = true;
+        }
+        else
+        {
+            x /= 2;
+        }
+    }
+
+    if (found)
+    {
+        cout << x << endl;
+    }
+    else
+    {
+        cout << "-1" << endl;
+    }
+
+    return 0;
+}
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int k;
+    cin >> k;
+
+    int x = 1;
+    bool found = false;
+
+    while (!found && x <= k)
+    {
+        int currScore = x;
+        int numOps = 0;
+
+        while (currScore < k)
+        {
+            int diff = k - currScore;
+
+            if (diff <= x)
+            {
+                currScore += diff;
+            }
+            else
+            {
+                currScore += x * 2;
+                x *= 2;
+            }
+
+            numOps++;
+        }
+
+        if (currScore == k && numOps >= 2)
+        {
+            found = true;
+        }
+        else
+        {
+            x /= 2;
+        }
+    }
+
+    if (found)
+    {
+        cout << x << endl;
+    }
+    else
+    {
+        cout << "-1" << endl;
+    }
+
+    return 0;
+}
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int k;
+    cin >> k;
+
+    int x = 1;
+    bool found_x = false;
+
+    while (x <= k)
+    {
+        int score = 0;
+        int tmp_x = x;
+
+        while (score < k)
+        {
+            score += tmp_x;
+            tmp_x *= 2;
+            if (score == k)
+            {
+                found_x = true;
+                break;
+            }
+        }
+        if (found_x)
+        {
+            break;
+        }
+        x++;
+    }
+
+    if (found_x)
+    {
+        cout << x << endl;
+    }
+    else
+    {
+        cout << "-1" << endl;
+    }
+
+    return 0;
+}
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int k;
+    cin >> k;
+
+    int x = 1;
+    bool found_x = false;
+
+    while (x <= k)
+    {
+        int diff = k - x;
+        if (diff % (x * 2) == 0)
+        {
+            found_x = true;
+            break;
+        }
+        x *= 2;
+    }
+
+    if (found_x)
+    {
+        cout << x << endl;
+    }
+    else
+    {
+        cout << "-1" << endl;
+    }
+
+    return 0;
+}
+
+#include <iostream>
+using namespace std;
+
+typedef long long int ll;
+
+class Solution
+{
+public:
+    ll acceptTheChallenge(int n)
+    {
+        ll k;
+        cin >> k;
+        ll lo = 1, hi = k;
+        ll ans = -1;
+
+        while (lo <= hi)
+        {
+            ll mid = (lo + hi) / 2;
+            ll sum = mid;
+            ll x = mid;
+
+            while (sum < k)
+            {
+                x *= 2;
+                sum += x;
+            }
+
+            if (sum == k)
+            {
+                ans = mid;
+                hi = mid - 1;
+            }
+            else if (sum > k)
+            {
+                hi = mid - 1;
+            }
+            else
+            {
+                lo = mid + 1;
+            }
+        }
+
+        return ans;
+    }
+};
+
+int main()
+{
+    int n;
+    cin >> n;
+    Solution obj;
+    cout << obj.acceptTheChallenge(n) << endl;
     return 0;
 }

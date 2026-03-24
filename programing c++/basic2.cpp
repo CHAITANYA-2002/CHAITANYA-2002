@@ -1,9 +1,14 @@
+#include <bits/stdc++.h>
 using namespace std;
 
-#include <iostream>
-int main()
-
+int main(int argc, char const *argv[])
 {
+	int a, b, c;
+	cin>>a;
+	cin>>b;
 
-	cout << "Hello world";
+	c=a+b;
+	cout<< c;2
+
+	return 0;
 }
