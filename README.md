@@ -43,12 +43,6 @@ I’m a passionate **software engineer & machine‑learning enthusiast** with a 
 
 ---
 
-### 📊 GitHub Activity
-
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chaitanya-2002&theme=dark&hide_border=true)
-
----
-
 ### 📫 Connect with Me
 
 - **LinkedIn:** [chaitanya‑khurana](https://www.linkedin.com/in/chaitanya-khurana-4b24991bb/)
