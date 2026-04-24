@@ -1,4 +1,63 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Chaitanya Khurana! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+# ![Portfolio Hero](file:///C:/Users/chait/.gemini/antigravity/brain/fd06564a-d57c-40fe-9642-914b93c4131f/portfolio_hero_1777020020521.png)
+
+## Hi there! 👋 I'm **Chaitanya Khurana**
+
+<div align="center">
+  <a href="https://github.com/Chaitanya-2002"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/chaitanya-khurana-4b24991bb/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:chaitanya@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail"/></a>
+</div>
+
+---
+
+### 🌟 About Me
+
+I’m a passionate **software engineer & machine‑learning enthusiast** with a knack for turning complex problems into elegant, production‑ready solutions. I love exploring the intersection of AI, cloud‑native architectures, and open‑source ecosystems.
+
+- 🎯 **Current focus:** Building end‑to‑end MLOps pipelines and experimenting with quantum‑ready ML frameworks.
+- ✨ **Fun fact:** I’ve written over **1 M lines of code** across C++, Python, and emerging languages.
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| **Languages** | C++, Python, JavaScript/TypeScript, Dart, Qiskit |
+| **ML / AI** | Scikit‑Learn, TensorFlow, PyTorch, HuggingFace, NLTK, SpaCy |
+| **DevOps** | Docker, Kubernetes, Jenkins, GitHub Actions |
+| **Databases** | MySQL, MongoDB |
+| **Cloud** | AWS (ECS, Lambda), Firebase |
+| **Frontend** | React, Vite, TailwindCSS (glassmorphism), Next.js |
+
+---
+
+### 📂 Selected Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **Portfolio Website** | A premium, glassmorphic multi‑page portfolio with dark mode, animated hero, and responsive Bento grid. | React, Vite, TailwindCSS, GSAP |
+| **MLOps Pipelines** | End‑to‑end CI/CD for training, serving, and monitoring ML models. | Docker, Jenkins, AWS, TensorFlow |
+| **Quantum‑Ready Sentiment Analyzer** | Hybrid classical‑quantum pipeline for text sentiment using Qiskit. | Python, Qiskit, Scikit‑Learn |
+| **Tourism Site (Full‑Stack)** | Dynamic booking platform with real‑time map integration. | Node.js, Express, MongoDB, React |
+
+---
+
+### 📊 GitHub Activity
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chaitanya-2002&theme=dark&hide_border=true)
+
+---
+
+### 📫 Connect with Me
+
+- **LinkedIn:** [chaitanya‑khurana](https://www.linkedin.com/in/chaitanya-khurana-4b24991bb/)
+- **GitHub:** [Chaitanya-2002](https://github.com/Chaitanya-2002)
+- **Email:** `chaitanya@example.com`
+
+---
+
+*✨ Let’s build something extraordinary together!*
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Student Of Poornima College of Engineering ><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
