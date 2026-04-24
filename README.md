@@ -56,29 +56,25 @@ const chaitanya = {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="50"/>
-<br/>
+<h1>🏆</h1>
 <b>20% Reduction</b>
 <br/>
 <sub>Loan default rates via deployed ML system</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/>
-<br/>
+<h1>🚀</h1>
 <b>3 Products Shipped</b>
 <br/>
 <sub>End-to-end as solo PM & Engineer</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/bullseye.png" width="50"/>
-<br/>
+<h1>🎯</h1>
 <b>95% Pre-Launch</b>
 <br/>
 <sub>Issue resolution rate on enterprise releases</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/fast-forward.png" width="50"/>
-<br/>
+<h1>⚡</h1>
 <b>40% Accuracy Boost</b>
 <br/>
 <sub>Semantic search via RAG optimization</sub>
