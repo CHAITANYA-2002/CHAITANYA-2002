@@ -1,412 +1,270 @@
-# Hi there! 👋 I'm Chaitanya Khurana
+# Hi, I'm Chaitanya Khurana
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Technical+Product+Manager+%7C+AI+Engineer;Building+AI+Products+That+Ship;2%2B+Years+Delivering+ML+%26+SaaS+Products;Bridging+Product+%26+Engineering)](https://git.io/typing-svg)
-  
-  <a href="https://www.linkedin.com/in/chaitanya-khurana-4b24991bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Chaitanya-2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:chaitanya100502@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+917976989699"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Chaitanya-2002&color=00D9FF&style=for-the-badge)
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Technical+Product+Manager+%7C+AI+Engineer;Building+AI+Products+That+Ship;Machine+Learning+%7C+RAG+%7C+Full-Stack;Product+Thinking+%2B+Engineering+Execution)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/chaitanya-khurana-4b24991bb/"><img src="https://img.shields.io/badge/LinkedIn-Chaitanya%20Khurana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/CHAITANYA-2002"><img src="https://img.shields.io/badge/GitHub-CHAITANYA--2002-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:chaitanya100502@gmail.com"><img src="https://img.shields.io/badge/Email-chaitanya100502%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=CHAITANYA-2002&color=00D9FF&style=for-the-badge)
+
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **Technical Product Manager & AI Engineer** who ships products end-to-end. With a background spanning **Product Management, ML Engineering, and QA**, I bring a unique ability to bridge business strategy with technical execution. I don't just build features — I deliver measurable business outcomes.
+I am a **Technical Product Manager and AI Engineer** who enjoys building useful products from the first problem statement through release. My work sits at the intersection of product thinking, machine learning, full-stack development, QA discipline, and cloud deployment.
 
 ```typescript
 const chaitanya = {
-  role: "Technical PM & AI Engineer",
-  location: "Jaipur, India 🇮🇳",
-  experience: "2+ years in AI/ML & SaaS products",
-  
-  currentFocus: [
-    "Building production-ready AI products",
-    "LLM/RAG architectures & prompt engineering",
-    "Translating AI capabilities into business value"
+  role: "Technical Product Manager & AI Engineer",
+  location: "Jaipur, India",
+  interests: ["AI products", "RAG systems", "ML workflows", "SaaS", "developer experience"],
+  strengths: [
+    "Writing PRDs and shipping code",
+    "Turning ambiguous ideas into measurable product outcomes",
+    "Building readable, reproducible repositories"
   ],
-  
-  superpowers: [
-    "Shipping AI products solo (PM + Engineer)",
-    "Cross-functional stakeholder management",
-    "Turning ambiguous problems into shipped products"
-  ],
-  
-  workingOn: "Freelance AI product engagements",
-  funFact: "I've worn PM, Engineering, and QA hats — gives me X-ray vision across the product stack 🔍"
+  currentFocus: "Production-ready AI, ML, and full-stack product workflows"
 };
 ```
 
-### 💡 What Makes Me Different
+### What Makes My Work Different
 
-- **🎯 Product-Minded Engineer:** I write PRDs *and* the code to ship them
-- **📊 Data-Driven Decision Maker:** Every feature ships with success metrics and KPIs
-- **🤝 Stakeholder Whisperer:** Equally comfortable presenting roadmaps to executives and debugging with engineers
-- **⚡ Rapid Executor:** Shipped 3 AI products in 6 months as solo PM/Engineer
+- **Product-minded engineering:** I care about users, metrics, trade-offs, and shipping.
+- **Applied AI focus:** I prefer practical ML/RAG systems that solve visible problems.
+- **End-to-end ownership:** I can move from requirements and architecture to implementation and documentation.
+- **Repository quality:** I believe strong READMEs, clean setup paths, and honest project status make code easier to trust.
 
 ---
 
-## 📈 Impact & Outcomes
+## Impact Snapshot
 
 <table>
 <tr>
 <td align="center" width="25%">
-<h1>🏆</h1>
-<b>20% Reduction</b>
+<h2>20%</h2>
+<b>Risk Reduction</b>
 <br/>
-<sub>Loan default rates via deployed ML system</sub>
+<sub>Loan default reduction through an ML scoring workflow</sub>
 </td>
 <td align="center" width="25%">
-<h1>🚀</h1>
-<b>3 Products Shipped</b>
+<h2>3</h2>
+<b>AI Products</b>
 <br/>
-<sub>End-to-end as solo PM & Engineer</sub>
+<sub>Scoped, built, tested, and shipped across freelance engagements</sub>
 </td>
 <td align="center" width="25%">
-<h1>🎯</h1>
-<b>95% Pre-Launch</b>
+<h2>95%</h2>
+<b>Pre-launch Quality</b>
 <br/>
-<sub>Issue resolution rate on enterprise releases</sub>
+<sub>Issue resolution rate during enterprise release cycles</sub>
 </td>
 <td align="center" width="25%">
-<h1>⚡</h1>
-<b>40% Accuracy Boost</b>
+<h2>40%</h2>
+<b>Search Lift</b>
 <br/>
-<sub>Semantic search via RAG optimization</sub>
+<sub>Semantic search improvement through RAG optimization</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 💼 Professional Journey
+## Featured GitHub Repositories
 
-### 🎯 Product Manager & AI Developer <sub>*(Jul 2024 – Present)*</sub>
-**Self-Employed (Freelance)** • *Jaipur, India*
-
-- **Product Ownership:** Full lifecycle management for 3 AI product engagements — PRDs, sprint planning, UAT, launch
-- **AI Innovation:** Built voice + touch-enabled AI chatbot on embedded hardware; improved semantic search accuracy by 40% and engagement by 25% via RAG
-- **Stakeholder Management:** Defined delivery milestones, acceptance criteria, and KPIs with clients; managed scope trade-offs under deadline pressure
-- **Business Impact:** Cut manual reporting time by 30%; shipped v1 within 6 weeks per engagement
-
-**Tech Stack:** `Python` `RAG` `LangChain` `TensorFlow` `Flask` `Power BI` `Raspberry Pi`
-
----
-
-### 🔍 QA Engineer — Release & Product Quality <sub>*(Feb 2024 – Jul 2024)*</sub>
-**Cyntexa** • *Jaipur, India*
-
-> *Intentional move for product exposure — hands-on with release cycles, acceptance criteria, and client validation*
-
-- **Quality Leadership:** Co-authored acceptance criteria with POs for 8+ feature releases; 95% pre-launch issue resolution
-- **Client Engagement:** Ran UAT sessions and demos with enterprise clients; translated feedback into prioritized backlog (12 enhancements across 2 sprints)
-- **Product Judgment:** Triaged bugs with severity classification; made scope trade-off recommendations under deadline pressure
-
-**Tech Stack:** `Salesforce Sales Cloud` `Service Cloud` `CPQ` `Selenium` `JIRA`
+| Repository | What It Demonstrates | Stack |
+|---|---|---|
+| [portfolio](https://github.com/CHAITANYA-2002/portfolio) | Personal portfolio with animated UI, routed pages, SEO, and project storytelling. | React, Vite, Framer Motion, Three.js |
+| [BAD_DATA](https://github.com/CHAITANYA-2002/BAD_DATA) | Detecting corrupted tabular records with supervised ML and data-quality features. | Python, pandas, scikit-learn, XGBoost |
+| [BCG_DATA_SCIENCE](https://github.com/CHAITANYA-2002/BCG_DATA_SCIENCE) | Customer churn analysis, EDA, feature engineering, and prediction workflow. | Python, pandas, matplotlib, scikit-learn |
+| [NLP](https://github.com/CHAITANYA-2002/NLP) | Hierarchical contextualized NER implementation with BiLSTM-CRF and BERT tools. | Python, PyTorch, CRF, BERT |
+| [Machine-Learning](https://github.com/CHAITANYA-2002/Machine-Learning) | Collection of ML, CV, NLP, regression, classification, and forecasting experiments. | Python, TensorFlow/Keras, scikit-learn |
+| [MERN](https://github.com/CHAITANYA-2002/MERN) | Full-stack and React practice including ecommerce, OTT UI, and tourism projects. | React, Node.js, Express, MongoDB |
+| [WEB-DEV](https://github.com/CHAITANYA-2002/WEB-DEV) | Static websites, UI components, templates, Tailwind work, and Azure deployment practice. | HTML, CSS, JavaScript, Tailwind, Azure |
+| [DOCKER](https://github.com/CHAITANYA-2002/DOCKER) | Containerized Node/React exercises and Docker Compose workflows. | Docker, Node.js, Redis, React |
 
 ---
 
-### 📊 Data Scientist — Applied AI & Analytics <sub>*(Aug 2023 – Jan 2024)*</sub>
-**Aru Technologies** • *Jaipur, India*
+## Professional Journey
 
-- **Product Impact:** Defined success metrics and scoped credit risk scoring system with stakeholders; deployed model reduced loan defaults by 20%
-- **Executive Dashboards:** Built ship fleet analytics dashboard surfacing 5 sustainability KPIs from sensor data — enabled weekly data-driven leadership reviews
-- **Cross-Functional Bridge:** Translated ML outputs into product briefs, roadmap updates, and board presentations (PM-to-data-science liaison)
+### Product Manager & AI Developer
+**Self-Employed / Freelance** | Jul 2024 - Present | Jaipur, India
 
-**Tech Stack:** `Python` `Scikit-learn` `TensorFlow` `SQL` `Power BI` `Pandas` `Data Pipelines`
+- Owned AI product engagements from discovery and PRDs through development, UAT, and launch.
+- Built voice and touch-enabled AI chatbot experiences with retrieval-augmented generation.
+- Defined milestones, acceptance criteria, product scope, and measurable delivery outcomes.
+- Worked across Python, RAG, LangChain, TensorFlow, Flask, Power BI, and Raspberry Pi workflows.
+
+### QA Engineer - Release & Product Quality
+**Cyntexa** | Feb 2024 - Jul 2024 | Jaipur, India
+
+- Partnered with product owners on acceptance criteria and release validation.
+- Supported enterprise UAT sessions, demos, issue triage, and backlog refinement.
+- Worked across Salesforce clouds, Selenium, JIRA, client feedback, and release workflows.
+
+### Data Scientist - Applied AI & Analytics
+**Aru Technologies** | Aug 2023 - Jan 2024 | Jaipur, India
+
+- Built applied ML workflows for risk scoring, analytics, and operational insight.
+- Created dashboards and reporting layers for stakeholder decision-making.
+- Translated model outputs into product briefs, success metrics, and business narratives.
+
+### Cloud Developer Intern
+**Celebal Technologies** | May 2023 - Jul 2023 | Jaipur, India
+
+- Worked on MERN and Azure-based development workflows.
+- Explored backend performance, integration issues, Docker, Git, and microservice patterns.
+
+### Azure Cloud Intern
+**Microsoft / Future Ready Talent Program** | May 2022 - Aug 2022 | Remote
+
+- Practiced Azure deployment workflows, GitHub Actions, monitoring, and CI/CD concepts.
+- Built and deployed cloud-linked web project work as part of the internship track.
 
 ---
 
-### ☁️ Cloud Developer Intern <sub>*(May 2023 – Jul 2023)*</sub>
-**Celebal Technologies** • *Jaipur, India*
-
-- **Full-Stack Ownership:** Scoped and delivered MERN + Azure microservices inventory system; improved backend performance by 22%
-- **Technical Problem-Solving:** Resolved 3 critical integration blockers during sprint review
-
-**Tech Stack:** `MERN Stack` `Azure Cloud` `Docker` `Microservices` `Git`
-
----
-
-### 🔧 Azure Cloud Intern <sub>*(May 2022 – Aug 2022)*</sub>
-**Microsoft** • *Remote*
-
-- **DevOps Excellence:** Redesigned CI/CD pipelines using GitHub Actions; reduced deployment time by 15%
-- **Process Improvement:** Authored incident retrospectives adopted team-wide
-
-**Tech Stack:** `Azure DevOps` `GitHub Actions` `Azure Monitor` `CI/CD`
-
----
-
-## 🛠️ Technical Skills
+## Technical Skills
 
 <details open>
-<summary><b>🎨 Product Management</b></summary>
+<summary><b>Product Management</b></summary>
 <br/>
 
-![Product Roadmapping](https://img.shields.io/badge/Product_Roadmapping-Expert-00D9FF?style=flat-square)
-![PRDs & User Stories](https://img.shields.io/badge/PRDs_&_User_Stories-Expert-00D9FF?style=flat-square)
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-Expert-00D9FF?style=flat-square)
-![JIRA](https://img.shields.io/badge/JIRA-Expert-00D9FF?style=flat-square)
-![OKRs & KPIs](https://img.shields.io/badge/OKRs_&_KPIs-Expert-00D9FF?style=flat-square)
-
-![Feature Prioritization](https://img.shields.io/badge/Feature_Prioritization-RICE%2FMoSCoW-00D9FF?style=flat-square)
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-Expert-00D9FF?style=flat-square)
-![User Research & UAT](https://img.shields.io/badge/User_Research_&_UAT-Expert-00D9FF?style=flat-square)
-![GTM Planning](https://img.shields.io/badge/Go--to--Market_Planning-Expert-00D9FF?style=flat-square)
-![Release Management](https://img.shields.io/badge/Release_Management-Expert-00D9FF?style=flat-square)
+![Product Roadmapping](https://img.shields.io/badge/Product%20Roadmapping-Strong-00D9FF?style=flat-square)
+![PRDs](https://img.shields.io/badge/PRDs%20%26%20User%20Stories-Strong-00D9FF?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-Strong-00D9FF?style=flat-square)
+![JIRA](https://img.shields.io/badge/JIRA-Strong-00D9FF?style=flat-square)
+![KPIs](https://img.shields.io/badge/OKRs%20%26%20KPIs-Strong-00D9FF?style=flat-square)
+![UAT](https://img.shields.io/badge/UAT%20%26%20Release%20Validation-Strong-00D9FF?style=flat-square)
 
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML & LLMs</b></summary>
+<summary><b>AI, ML, and Data</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
-
-![LangChain](https://img.shields.io/badge/🦜_LangChain-00D9FF?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-00D9FF?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-NLTK%2FSpaCy-00D9FF?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Expert-00D9FF?style=flat-square)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-NLTK%20%7C%20spaCy%20%7C%20BERT-00D9FF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00D9FF?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-00D9FF?style=flat-square)
 
 </details>
 
 <details open>
-<summary><b>💻 Development & Cloud</b></summary>
+<summary><b>Development, Cloud, and Tools</b></summary>
 <br/>
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Frameworks & Tools:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Cloud & DevOps:**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-00D9FF?style=flat-square)
-
-**Enterprise:**  
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 </details>
 
 ---
 
-## 🏆 Featured Projects
+## Selected Product and Research Work
 
-### 🤖 Voice-Enabled AI Chatbot with RAG
-*Production AI Product | Solo PM & Engineer*
+### Voice-Enabled AI Chatbot with RAG
 
-Built an accessible AI chatbot on embedded hardware with voice and touch interfaces. Deployed RAG retrieval layer to improve semantic search accuracy by 40%.
+Built an accessible AI chatbot experience with voice and touch interfaces, retrieval-augmented generation, and product-focused delivery milestones.
 
-**Impact:** 25% increase in user engagement, 30% reduction in manual reporting time  
-**Role:** Product scoping, architecture design, development, UAT, launch  
-**Stack:** `Python` `RAG` `LangChain` `TensorFlow` `Raspberry Pi` `Flask`
+**Role:** Product scoping, architecture, implementation, UAT, launch  
+**Stack:** Python, RAG, LangChain, TensorFlow, Raspberry Pi, Flask
 
-**Key Product Decisions:**
-- Prioritized voice interface based on user research showing accessibility gaps
-- Chose RAG over fine-tuning to reduce latency and deployment complexity
-- Defined success metrics upfront: accuracy, engagement, manual time saved
+### Credit Risk Scoring ML System
 
----
+Designed an applied ML workflow for loan default risk assessment and stakeholder-facing performance tracking.
 
-### 💰 Credit Risk Scoring ML System
-*Production ML Product | Data Scientist*
-
-Designed and deployed predictive model for loan default risk assessment. Collaborated with product stakeholders to define success metrics and KPIs.
-
-**Impact:** 20% reduction in loan default rates  
 **Role:** Model development, metric definition, stakeholder alignment  
-**Stack:** `Python` `Scikit-learn` `TensorFlow` `SQL` `Power BI`
+**Stack:** Python, scikit-learn, TensorFlow, SQL, Power BI
 
-**Key Product Approach:**
-- Ran discovery sessions with finance team to understand business constraints
-- Established baseline metrics before deployment for proper impact measurement
-- Created executive dashboard to track model performance post-launch
+### Ship Fleet Sustainability Dashboard
 
----
+Converted raw operational data into executive-level sustainability KPIs and reporting views.
 
-### 🚢 Ship Fleet Sustainability Dashboard
-*Analytics Product | Data Scientist*
-
-Transformed raw sensor data into 5 executive-level sustainability KPIs. Enabled data-driven weekly leadership reviews where none existed before.
-
-**Impact:** Enabled executive decision-making with real-time KPI visibility  
 **Role:** Requirements gathering, data pipeline design, dashboard development  
-**Stack:** `Python` `Pandas` `Power BI` `Data Pipelines`
+**Stack:** Python, pandas, Power BI
+
+### Gait Trajectory Prediction System
+
+Research-style deep learning project for biped motion prediction using DNN, LSTM, and trajectory analysis.
+
+**Stack:** Python, TensorFlow, Keras
 
 ---
 
-### 🖼️ AI Image Background Remover API
-*Personal Project | Full-Stack AI Product*
+## Education and Publications
 
-End-to-end background removal tool achieving 83% efficiency on MS-COCO benchmark. Managed versioning, documentation, and onboarding for external testers.
+### B.Tech - Computer Science and Engineering
+**Rajasthan Technical University** | May 2020 - May 2024 | Jaipur, India
 
-**Stack:** `Python` `U-Net` `Detectron-2` `Flask`
+Relevant coursework: data structures, DBMS, cloud computing, machine learning, artificial intelligence, and system design.
 
----
+### IEEE ICFIRTP 2022 Publication
 
-### 🚶 Gait Trajectory Prediction System
-*B.Tech Dissertation | Research Project*
+**Review on Digital Watermarking Techniques and Its Retrieval**  
+DOI: [10.1109/ICFIRTP56122.2022.10059440](https://doi.org/10.1109/ICFIRTP56122.2022.10059440)
 
-Deep learning models for biped motion prediction using DNN, LSTM, and inverse kinematics. Improved trajectory accuracy over traditional methods.
+### Design Patent
 
-**Stack:** `Python` `TensorFlow` `Keras`
-
----
-
-## 📚 Education & Credentials
-
-### 🎓 B.Tech — Computer Science & Engineering
-**Rajasthan Technical University** • *May 2020 – May 2024* • **Jaipur, India**
-
-**Relevant Coursework:** System Design, Machine Learning/AI, Cloud Computing, Data Structures, DBMS
+**AI Based Smart Glasses for Determining Retinal Stress**  
+Application No: `489030-001`  
+Published in the Indian Patent Journal, March 2026.
 
 ---
 
-## 📝 Publications & IP
-
-### 📄 Review on Digital Watermarking Techniques and Its Retrieval
-**IEEE ICFIRTP 2022** • DOI: [10.1109/ICFIRTP56122.2022.10059440](https://doi.org/10.1109/ICFIRTP56122.2022.10059440)
-
-Co-authored peer-reviewed research on security and privacy in digital watermarking. Presented findings at international conference.
-
----
-
-### 🔬 Design Patent — AI Based Smart Glasses for Determining Retinal Stress
-**Controller General of Patents, Designs & Trademarks, Government of India** • *Published: March 2026*
-
-- **Application No:** 489030-001
-- **Status:** Officially accepted and published in Indian Patent Journal (03/2026)
-- **Role:** Co-inventor on multi-member team for IP protection under national standards
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-2002&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHAITANYA-2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHAITANYA-2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CHAITANYA-2002&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
 </div>
 
 ---
 
-## 💻 Coding Activity
+## What I Am Looking For
 
-<!--START_SECTION:waka-->
+I am interested in opportunities where product thinking and technical execution meet:
 
-![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-1%20Million%20Lines%20of%20Code-00D9FF?style=for-the-badge)
-
-```text
-🌞 Morning        ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-🌆 Daytime        ██████████░░░░░░░░░░░░░░░   40.64% 
-🌃 Evening        ████████░░░░░░░░░░░░░░░░░   31.99% 
-🌙 Night          ███░░░░░░░░░░░░░░░░░░░░░░   14.34%
-```
-
-📅 **Most Productive Day: Sunday** 
-
-```text
-Monday            ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
-Tuesday           ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Wednesday         ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Thursday          ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Friday            ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
-Saturday          ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
-Sunday            █████░░░░░░░░░░░░░░░░░░░░   19.91%
-```
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                     ███████████░░░░░░░░░░░░░   45.17% 
-C++                        ███████░░░░░░░░░░░░░░░░░   27.29% 
-JavaScript                 ██████░░░░░░░░░░░░░░░░░░   22.04% 
-SQL                        ██░░░░░░░░░░░░░░░░░░░░░░   05.25%
-Dart                       ░░░░░░░░░░░░░░░░░░░░░░░░   00.25%
-
-🔥 Editors: 
-VS Code                    ████████████████░░░░░░░░░   65.87% 
-PyCharm                    █████████░░░░░░░░░░░░░░░   24.08% 
-Jupyter Notebook           ██░░░░░░░░░░░░░░░░░░░░░░   10.05%
-
-💻 Operating System: 
-Ubuntu                     █████████████████████████   100.0%
-```
-
-<!--END_SECTION:waka-->
+- AI/ML product management
+- LLM, RAG, and prompt-engineering workflows
+- Technical product roles for data and AI platforms
+- Full-stack or ML engineering roles with strong product ownership
+- Early-stage teams where ownership, speed, and clarity matter
 
 ---
 
-## 🎯 What I'm Looking For
+## Connect
 
-I'm currently exploring opportunities in:
-
-- **AI/ML Product Management:** Leading AI product strategy and execution at scale
-- **Prompt Engineering / LLM Operations:** Advanced prompting systems, evaluation frameworks, RAG architectures
-- **Technical PM Roles:** Bridge between engineering and business for data/AI products
-- **Founding/Early-Stage Teams:** High-impact roles where I can wear multiple hats (PM + Engineer)
-
-**Ideal Environment:** Fast-paced, product-driven teams shipping AI/ML products to real users with measurable business impact.
-
----
-
-## 🤝 Let's Connect
-
-I'm always excited to discuss:
-- 🚀 AI product strategy and execution
-- 🧠 LLM architectures, RAG systems, and prompt engineering
-- 📊 Turning ML models into shipped products with business value
-- 💡 Cross-functional product leadership
+I am always happy to discuss AI products, RAG systems, ML workflows, product strategy, and full-stack engineering.
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-khurana-4b24991bb/)
-  [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanya100502@gmail.com)
-  [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaitanya-2002)
-  
-  <br/>
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  
-  **"I love connecting with different people — if you want to say hi, I'll be happy to meet you!"** 😊
-  
-  <br/>
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
-</div>
 
----
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-khurana-4b24991bb/)
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanya100502@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHAITANYA-2002)
 
-<div align="center">
-  <sub>Built with ❤️ by Chaitanya Khurana</sub>
+<sub>Built with care by Chaitanya Khurana</sub>
+
 </div>
